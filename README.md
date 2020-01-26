@@ -5,5 +5,5 @@ initial repo
 
 kquick copy
 
-this is where usage information goes
+This is where usage information goes: HERE
 
